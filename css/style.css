@@ -1,0 +1,23 @@
+/*common start*/
+body{
+	/*font-family: ;*/
+	font-size: 16px;
+	font-weight: 400 ;
+	color: #172d5c ;
+
+}
+/*common end*/
+/*header start*/
+header{}
+.container {
+}
+
+.logo {
+}
+.logo img{}
+.menu {
+}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{}
+/*header end*/
